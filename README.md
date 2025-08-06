@@ -1,3 +1,8 @@
+<h1 align="center">Hi there, I'm <span style="color:#00BFFF">Eray Yüksek</span> 👋</h1>
+<h3 align="center">💻 Aspiring .NET Backend Developer | Passionate about scalable, real-time applications</h3>
+
+---
+
 ## 📄 About Me:
 
 I'm passionate about backend development and always eager to learn more.
@@ -7,6 +12,7 @@ I'm passionate about backend development and always eager to learn more.
 
 ## 🚀 Tech Stack:
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -17,8 +23,25 @@ I'm passionate about backend development and always eager to learn more.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats:
 
-![Eray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=radical&langs_count=6&hide=html,css" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=tokyonight)
+---
+
+## ✨ Highlight
+
+- 🔹 Focused on **.NET**, **C#**, **PostgreSQL**, and **API Development**
+- 🔹 Developing real-time features using **SignalR** and **Redis**
+- 🔹 Striving to become a **world-class backend engineer**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
