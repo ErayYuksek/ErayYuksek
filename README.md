@@ -32,4 +32,22 @@ I'm passionate about backend development and always eager to learn more.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=radical&langs_count=6&hide=html,css" width="48%" />
 </p>
 
-## 📈 Contribution
+## 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErayYuksek&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+## ✨ Highlight
+
+- 🔹 Focused on **.NET**, **C#**, **PostgreSQL**, and **API Development**
+- 🔹 Developing real-time features using **SignalR** and **Redis**
+- 🔹 Striving to become a **world-class backend engineer**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
