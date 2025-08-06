@@ -34,9 +34,12 @@ I'm passionate about backend development and always eager to learn more.
 
 ## 📈 Contribution Graph:
 
+## 📈 Contribution Graph:
+
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErayYuksek&theme=tokyo-night&area=true" />
 </p>
+
 
 ---
 
