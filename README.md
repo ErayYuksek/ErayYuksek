@@ -50,7 +50,7 @@ I'm passionate about backend development and always eager to learn more.
 
 - 🔹 Focused on <strong>.NET, C#, PostgreSQL</strong> and <strong>API Development</strong>  
 - 🔹 Developing real-time features using <strong>SignalR</strong> and <strong>Redis</strong>  
-- 🔹 Striving to become a <strong>world-class backend engineer</strong>
+
 
 ---
 
