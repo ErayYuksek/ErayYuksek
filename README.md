@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#00BFFF">Eray Yüksek</span> 👋</h1>
-<h3 align="center">💻 Aspiring .NET Backend Developer | Passionate about scalable, real-time applications</h3>
+<h3 align="center">💻 Aspiring .NET Backend Developer </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
