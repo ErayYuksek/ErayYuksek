@@ -40,11 +40,6 @@ I'm passionate about backend development and always eager to learn more.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-<!-- Animated skill icons -->
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,cs,angular,postgresql,redis,linux,git,github,postman,aws&perline=10"/></a>
-</p>
-
 ## 📊 GitHub Stats
 <p align="center">
   <picture>
