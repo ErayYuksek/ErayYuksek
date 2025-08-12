@@ -149,23 +149,14 @@ Caching & query tuning
 ### 🔥 **Interactive Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=00D8FF&point=FF6B6B&area=true&hide_border=true&custom_title=Eray's%20Contribution%20Graph" alt="Activity Graph" style="max-width: 100%; height: auto;" />
 
-### 💻 **Coding Time Distribution**
+### ⚡ **Development Insights**
 <div align="center" style="margin-top: 20px;">
-  
-| **Time Period** | **Activity Level** | **Focus** |
-|:---------------:|:------------------:|:---------:|
-| 🌅 **Morning** | `██████████` 80% | Code Review & Planning |
-| 🏙️ **Afternoon** | `████████████` 95% | Development & Testing |
-| 🌃 **Evening** | `████████` 60% | Learning & Research |
-| 🌙 **Night** | `████` 30% | Documentation |
+
+**🚀 Building the future, one commit at a time**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=500&height=40&lines=Focused+on+scalable+solutions;Clean+code+advocate;Performance+optimization+expert;Always+learning+new+tech" alt="Development Focus" />
 
 </div>
-
-### ⚡ **Recent Activity Highlights**
-- 🔥 **10+ commits** this week
-- 🚀 **3 new repositories** created
-- 🛠️ **5 pull requests** merged
-- 📚 **2 projects** updated
 
 </div>
 
@@ -227,7 +218,17 @@ Angular, React
 </tr>
 </table>
 
+### 📊 **Skills Progress Bar**
+```text
+.NET Core     ████████████████████ 100%
+C#           ███████████████████  95%
+SQL          ██████████████████   90%
+SignalR      ████████████████     80%
+AWS          ███████████          55%
+React        ████████             40%
+```
 
+</div>
 
 ---
 
@@ -278,26 +279,19 @@ Angular, React
 
 ---
 
-## 🏆 **Achievements & Recognition**
+## 🏆 **Achievements**
 
 <div align="center">
 
 ### 🏅 **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=ErayYuksek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" style="max-width: 100%; height: auto;" />
 
-### 🌟 **Milestones**
-- **💯 50+ Repositories** created and maintained
-- **🔥 500+ Commits** in the last year  
-- **⭐ 100+ Stars** received across projects
-- **🤝 20+ Collaborations** with other developers
-- **📚 15+ Technologies** mastered and applied
-
-### 🎖️ **Certifications & Skills**
+### 🎖️ **Technical Excellence**
 <table width="100%">
 <tr>
 <td align="center" width="50%">
 
-**Backend Excellence**
+**🚀 Backend Mastery**
 - ✅ Advanced .NET Development
 - ✅ Database Design & Optimization
 - ✅ API Architecture & Security
@@ -306,7 +300,7 @@ Angular, React
 </td>
 <td align="center" width="50%">
 
-**Modern Development**
+**💡 Modern Practices**
 - ✅ Clean Code Principles
 - ✅ SOLID Design Patterns
 - ✅ Test-Driven Development
@@ -320,52 +314,34 @@ Angular, React
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 🌐 **Get In Touch**
 
 <div align="center">
 
-### 💬 **Let's Build Something Amazing Together!**
+### 💬 **Let's Create Something Extraordinary!**
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
+<div style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=00D8FF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Open+for+exciting+opportunities!;Let's+build+the+future+together;Ready+to+collaborate+%26+innovate" alt="Collaboration Message" />
+</div>
 
-**🤝 Open for Collaboration**
-- Backend development projects
-- .NET ecosystem initiatives  
-- Open source contributions
-- Technical mentorship
-
-</td>
-<td align="center" width="50%">
-
-**📬 Reach Out For**
-- Job opportunities
-- Project partnerships
-- Technical discussions
-- Code reviews & feedback
-
-</td>
-</tr>
-</table>
-
-### 🔗 **Social Links**
+### 🔗 **Connect With Me**
 <p>
-  <a href="https://www.linkedin.com/in/eray-y-6a671a322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/eray-y-6a671a322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ErayYuksek">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ErayYuksek" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
-  <a href="mailto:eray@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:eray@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
 
-### 💡 **Fun Fact**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=2000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&height=50&lines=I+debug+code+with+coffee+%E2%98%95;Love+solving+complex+problems+%F0%9F%A7%A9;Always+learning+new+technologies+%F0%9F%9A%80;Clean+code+is+my+passion+%E2%9C%A8" alt="Fun Facts" />
-
-**🚀 Ready to innovate and create impactful solutions!**
+### ⚡ **Currently Available For**
+- **💼 Full-time opportunities** in backend development
+- **🤝 Freelance projects** and consulting
+- **🚀 Collaborative open-source** initiatives
+- **🎓 Technical mentoring** and knowledge sharing
 
 </div>
 
@@ -375,7 +351,8 @@ Angular, React
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&reversal=true&animation=fadeIn" />
   
-  <p><i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
+  <p style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=38BDF8&background=00000000&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting+my+profile!;Let's+code+the+future+together+%F0%9F%9A%80" alt="Footer Message" />
+  </p>
   
-  <img src="https://komarev.com/ghpvc/?username=ErayYuksek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
