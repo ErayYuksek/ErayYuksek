@@ -1,23 +1,30 @@
-<!-- Modern Professional Header -->
+<!-- Modern Minimalist Header -->
 <div align="center">
-  <h1><span style="color:#00D8FF">Hi, I'm Eray Yüksek</span> 👋</h1>
-  <h2><span style="color:#38BDF8">.NET Backend Developer</span> 💻</h2>
-  <p><i>Building Scalable Applications & APIs</i></p>
-</div>
-
-<!-- Clean Professional Banner -->
-<div align="center">
-  <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=120&section=header" />
+  <br>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Eray+Y%C3%BCksek" alt="Name" />
+  </h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/.NET%20Backend%20Developer-512BD4?style=flat-square&logo=.net&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Building%20Scalable%20APIs-00D8FF?style=flat-square&logoColor=white&labelColor=0D1117" />
+  </p>
+  
+  <div align="center">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  </div>
+  <br>
 </div>
 
 ---
 
 ## 👨‍💻 **About Me**
 
-<table>
-<tr>
-<td width="60%">
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="65%" valign="top">
+        
 ### 🚀 **Professional Profile**
 - 💼 **Role**: Backend Developer  
 - 🎯 **Specialty**: .NET Ecosystem  
@@ -33,23 +40,22 @@
 - **☁️ Cloud Solutions** - AWS deployment & DevOps  
 - **🔧 Performance Optimization** - Caching & query tuning  
 
-</td>
-<td width="40%">
-
+      </td>
+      <td width="35%" valign="top">
+        
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=transparent&hide_border=true&title_color=00D8FF&text_color=ffffff&icon_color=00D8FF&bg_color=00000000&hide=issues&card_width=300" alt="GitHub Stats" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="240"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
