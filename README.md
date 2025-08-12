@@ -9,9 +9,6 @@
 <h1 align="center">Hi there, I'm <span style="color:#00BFFF">Eray Yüksek</span> 👋</h1>
 <h3 align="center">💻 Aspiring .NET Backend Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Clean+APIs+%7C+.NET+%26+C%23;PostgreSQL+%7C+SQL+Server;SignalR+%7C+Redis+%7C+Real-time+features;Always+learning+and+shipping!"/>
-</p>
 
 ---
 
