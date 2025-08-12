@@ -1,11 +1,13 @@
 <!-- Modern Professional Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eray+Y%C3%BCksek+%F0%9F%91%8B;Backend+Developer;.NET+Specialist" alt="Typing SVG" />
+  <h1><span style="color:#00D8FF">Hi, I'm Eray Yüksek</span> 👋</h1>
+  <h2><span style="color:#38BDF8">.NET Backend Developer</span> 💻</h2>
+  <p><i>Building Scalable Applications & APIs</i></p>
 </div>
 
 <!-- Clean Professional Banner -->
 <div align="center">
-  <img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=150&section=header&text=.NET%20Backend%20Developer&fontSize=35&fontColor=38BDF8&animation=fadeIn&fontAlignY=50" />
+  <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=120&section=header" />
 </div>
 
 ---
@@ -14,27 +16,35 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🚀 **Professional Profile**
-- 💼 **Role**: Backend Developer
-- 🎯 **Specialty**: .NET Ecosystem
-- 🌍 **Location**: Turkey 🇹🇷
-- 📧 **Status**: Available for opportunities
-- 🔥 **Passion**: Building scalable applications
+- 💼 **Role**: Backend Developer  
+- 🎯 **Specialty**: .NET Ecosystem  
+- 🌍 **Location**: Turkey 🇹🇷  
+- 📧 **Status**: Available for opportunities  
+- 🔥 **Passion**: Building scalable applications  
 
 ### 💡 **Core Expertise**
-- **API Development** - RESTful services
-- **Database Design** - Optimal performance  
-- **System Integration** - Seamless connectivity
-- **Real-time Features** - SignalR & Redis
-- **Cloud Solutions** - AWS deployment
+- **🎯 API Development** - RESTful & GraphQL services  
+- **🗄️ Database Design** - Optimal performance & scaling  
+- **⚡ Real-time Features** - SignalR & WebSocket integration  
+- **🏗️ System Architecture** - Microservices & clean code  
+- **☁️ Cloud Solutions** - AWS deployment & DevOps  
+- **🔧 Performance Optimization** - Caching & query tuning  
 
 </td>
-<td width="50%">
+<td width="40%">
 
 <div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="400" height="250"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="240"/>
 </div>
 
 </td>
@@ -65,6 +75,7 @@
 ### **Frontend & Tools**
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
@@ -85,17 +96,17 @@
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&icon_color=00D8FF" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&icon_color=00D8FF&disable_animations=false" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&langs_count=6&hide=html,css" alt="Most Used Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&langs_count=6&hide=html,css&disable_animations=false" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ErayYuksek&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ErayYuksek&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&disable_animations=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -119,6 +130,7 @@
 | 🗄️ **Database Optimization** | PostgreSQL, Indexing | `Advanced` |
 | 🌐 **API Development** | RESTful, Swagger | `Expert` |
 | ☁️ **Cloud Integration** | AWS, Deployment | `Intermediate` |
+| ⚛️ **Frontend Frameworks** | Angular, React | `Learning` |
 
 </div>
 
@@ -160,6 +172,4 @@
 <!-- Professional Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1a2e,16213e&height=120&section=footer&reversal=true" />
-  
-  **⭐ If you find my work interesting, consider starring some repositories!**
 </div>
