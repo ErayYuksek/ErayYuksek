@@ -3,7 +3,9 @@
 **Backend Developer** • **.NET Specialist** • **Building Scalable Applications**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&lines=.NET+Backend+Developer;Building+Scalable+APIs;Clean+Code+Advocate" alt="Typing SVG" />
+  
+### 🎯 **Passionate about building robust, scalable solutions**
+
 </div>
 
 ---
@@ -49,7 +51,7 @@
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=tokyo-night&hide_border=true&custom_title=Development%20Activity" />
 </div>
 
 ## 💼 What I'm Working On
@@ -82,5 +84,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&lines=Open+for+opportunities;Let's+build+something+amazing!" />
+  <strong>✨ Building the future, one commit at a time ✨</strong>
 </div>
