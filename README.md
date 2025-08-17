@@ -1,14 +1,21 @@
 # Hi, I'm Eray Yüksek 👋
 
-### **Backend Developer** • **.NET Specialist** • **Building Scalable Applications**
+**Backend Developer** • **.NET Specialist** • **Building Scalable Applications**
+
+<div align="center">
+  
+### 🎯 **Passionate about building robust, scalable solutions**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** based in Turkey, specializing in the **.NET ecosystem**. I'm passionate about building robust and scalable applications with a focus on **clean architecture** and high-quality code. I'm always open to new opportunities and collaborations.
-
----
+- 💼 **Backend Developer** specializing in **.NET ecosystem**
+- 🌍 Based in **Turkey** 🇹🇷
+- 🎯 Focused on **scalable applications** and **clean architecture**
+- 📧 Open to **new opportunities** and **collaborations**
 
 ## 🛠️ Tech Stack
 
@@ -23,24 +30,80 @@ I'm a **Backend Developer** based in Turkey, specializing in the **.NET ecosyste
 - Angular • React • Bootstrap
 - AWS • Postman • Swagger/OpenAPI
 
----
-
-## 📊 GitHub Stats
+## 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=github-dark&hide_border=true&custom_title=My%20Development%20Activity" width="100%" />
-</div>
 
----
+### 🔥 Weekly Coding Pulse
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F85149&area=true&hide_border=true&custom_title=Weekly%20Commit%20Activity%20📊" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+**⚡ Live Stats**
+
+<img src="https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=This%20Week&color=58A6FF&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/last-commit/ErayYuksek/ErayYuksek?style=for-the-badge&logo=github&logoColor=white&label=Last%20Push&color=F85149&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/followers/ErayYuksek?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=FFA500&labelColor=0D1117" />
+
+**💻 Code Philosophy**
+```
+"Write code that tells a story,
+ build systems that scale,
+ create solutions that last."
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎯 Current Focus
 
-- **Real-time Applications** with SignalR
-- **Microservices Architecture** design
-- **Database Optimization** and performance tuning
-- **Cloud Integration** with AWS
+- 🔥 **Real-time Applications** with SignalR
+- 🏗️ **Microservices Architecture** design
+- 🗄️ **Database Optimization** and performance tuning
+- ☁️ **Cloud Integration** with AWS
 
----
+## 🚀 Innovation Labs
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+**⚡ Real-time Systems**  
+SignalR • WebSockets  
+`🔴 Live`
+
+</td>
+<td align="center" width="33%">
+
+**🏗️ Architecture Design**  
+Microservices • Clean Code  
+`🟢 Active`
+
+</td>
+<td align="center" width="33%">
+
+**🔍 Performance Lab**  
+Optimization • Scaling  
+`🟡 Research`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 💼 What I'm Working On
 
@@ -49,13 +112,17 @@ I'm a **Backend Developer** based in Turkey, specializing in the **.NET ecosyste
 - Microservices platform with API Gateway
 - Database performance optimization tools
 
-**🎓 Learning Goals**
+**🎓 Learning Goals 2025**
 - Advanced SignalR implementations
 - AWS cloud architecture
 - Docker & Kubernetes
 - .NET MAUI development
 
----
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErayYuksek&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -72,3 +139,7 @@ I'm a **Backend Developer** based in Turkey, specializing in the **.NET ecosyste
 </div>
 
 ---
+
+<div align="center">
+  <strong>✨ Building the future, one commit at a time ✨</strong>
+</div>
