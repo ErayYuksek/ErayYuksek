@@ -48,10 +48,37 @@
 - 🗄️ **Database Optimization** and performance tuning
 - ☁️ **Cloud Integration** with AWS
 
-## 📈 Activity
+## 🔥 Coding Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=tokyo-night&hide_border=true&custom_title=Development%20Activity" />
+
+### 💻 Development Heatmap
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=tokyo-night&hide_border=true&custom_title=Code%20Commits%20Over%20Time&area=true&point=ff6b6b" />
+
+### ⚡ Real-time Metrics
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <div align="center">
+    <img src="https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=Weekly%20Commits&color=00D8FF" />
+  </div>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ErayYuksek&style=for-the-badge&color=00D8FF&label=Profile%20Views" />
+  </div>
+</div>
+
+### 🎯 Code Quality Focus
+```javascript
+const developer = {
+  name: "Eray Yüksek",
+  focus: ["Clean Code", "Scalability", "Performance"],
+  currentlyLearning: ["Microservices", "AWS", "SignalR"],
+  codePhilosophy: "Write code that tells a story 📖",
+  favoriteQuote: "Make it work, make it right, make it fast! 🚀"
+};
+```
+
+### 🏆 Achievement Highlights
+<img src="https://github-profile-trophy.vercel.app/?username=ErayYuksek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+
 </div>
 
 ## 💼 What I'm Working On
