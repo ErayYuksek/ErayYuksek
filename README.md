@@ -105,6 +105,12 @@ public class Developer : IProfessional
 }
 ```
 
+### ⚡ Weekly Code Stats
+<div align="center">
+  <img src="https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=This%20Week&color=00D8FF&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/last-commit/ErayYuksek/ErayYuksek?style=for-the-badge&logo=github&logoColor=white&label=Last%20Push&color=00ff88&labelColor=1a1a1a" />
+</div>
+
 ### 🎯 Achievement Unlocked
 <img src="https://github-profile-trophy.vercel.app/?username=ErayYuksek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
