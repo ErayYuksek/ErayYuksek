@@ -116,7 +116,7 @@ Optimization • Scaling
 - Advanced SignalR implementations
 - AWS cloud architecture
 - Docker & Kubernetes
-- .NET MAUI development
+
 
 ## 🏆 Achievements
 
