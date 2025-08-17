@@ -51,14 +51,9 @@
 
 <img src="https://img.shields.io/github/last-commit/ErayYuksek/ErayYuksek?style=for-the-badge&logo=github&logoColor=white&label=Last%20Push&color=F85149&labelColor=0D1117" />
 
-<img src="https://img.shields.io/github/followers/ErayYuksek?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=FFA500&labelColor=0D1117" />
 
-**💻 Code Philosophy**
-```
-"Write code that tells a story,
- build systems that scale,
- create solutions that last."
-```
+
+
 
 </td>
 </tr>
