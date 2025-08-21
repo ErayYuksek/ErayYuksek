@@ -1,6 +1,6 @@
 # Hi, I'm Eray Yüksek 👋
 
-**Backend Developer** • **.NET Specialist** • **Building Scalable Applications**
+**Backend Developer** • *.NET Specialist** • **Building Scalable Applications**
 
 <div align="center">
   
