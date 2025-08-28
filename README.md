@@ -35,55 +35,28 @@ public class ErayYuksek : ISeniorDeveloper, IArchitect, IProblemSolver
 
 ---
 
-## 🚀 **Performance Metrics**
+## 🚀 **Key Stats**
 
-<div align="center">
-
-| 🔥 **Metric** | 📊 **Value** | 🎯 **Impact** |
-|:---:|:---:|:---:|
-| **Years of Excellence** | `5+` | Senior-level expertise |
-| **Projects Delivered** | `50+` | Production-grade solutions |
-| **System Uptime** | `99.9%` | Enterprise reliability |
-| **Performance Boost** | `10x` | Optimization specialist |
-
-</div>
+| **Metric** | **Value** |
+|:---|:---|
+| **Experience** | 5+ Years |
+| **Projects** | 50+ Delivered |
+| **Uptime** | 99.9% |
+| **Focus** | Performance & Scale |
 
 ---
 
-## ⚡ **Current Focus Areas**
+## ⚡ **Current Focus**
 
-<div align="center">
-
-```ascii
-    🏗️ ARCHITECTURE        🔄 REAL-TIME           🚀 PERFORMANCE
-    ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-    │ Microservices   │────▶│ SignalR Systems │────▶│ Optimization    │
-    │ Design Patterns │     │ WebSocket APIs  │     │ Scaling         │
-    │ Clean Code      │     │ Live Streaming  │     │ Monitoring      │
-    └─────────────────┘     └─────────────────┘     └─────────────────┘
-```
-
-</div>
+**🏗️ Architecture** • **🔄 Real-time Systems** • **🚀 Performance Optimization**
 
 ---
 
-## 🛠️ **Technology Arsenal**
+## 🛠️ **Tech Stack**
 
-### **Backend Mastery**
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
-
-### **Database & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Backend:** .NET Core • C# • ASP.NET • SignalR • Entity Framework  
+**Database:** PostgreSQL • SQL Server • Redis  
+**Cloud:** AWS • Docker • Kubernetes
 
 ---
 
@@ -141,7 +114,7 @@ Status: Beta Testing 🧪
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <div align="center">
 
@@ -152,83 +125,22 @@ Status: Beta Testing 🧪
 
 ---
 
-## 🏆 **Expertise Highlights**
+## 🎓 **2025 Learning Goals**
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Eray Yüksek))
-    Architecture
-      Microservices
-      Clean Architecture
-      Design Patterns
-      SOLID Principles
-    Performance
-      Database Optimization
-      Caching Strategies
-      Load Balancing
-      Monitoring
-    Real-time
-      SignalR
-      WebSockets
-      Event-Driven
-      Streaming
-    Cloud
-      AWS Services
-      Containerization
-      Orchestration
-      DevOps
-```
-
-</div>
+- **Advanced SignalR** - Real-time system patterns
+- **AWS Architecture** - Cloud solution design  
+- **Kubernetes** - Container orchestration
+- **Performance Optimization** - System efficiency
 
 ---
 
-## 💡 **Philosophy**
+## 📫 **Connect**
 
 <div align="center">
 
-> *"Code is poetry written in logic,*  
-> *Architecture is the symphony that makes it sing"*
-
-**🎯 Mission**: Building scalable, maintainable systems that solve real problems  
-**⚡ Approach**: Clean code, solid architecture, continuous learning  
-**🚀 Goal**: Creating technology that makes a difference  
-
-</div>
-
----
-
-## 🌟 **Learning Journey 2025**
-
-- [ ] **Advanced SignalR Patterns** - Real-time system mastery
-- [ ] **AWS Solution Architecture** - Cloud expertise expansion  
-- [ ] **Kubernetes Deep Dive** - Container orchestration
-- [ ] **Machine Learning Integration** - AI-powered backends
-- [ ] **Performance Engineering** - Microsecond optimization
-
----
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eray-y-6a671a322/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErayYuksek)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eray@example.com)
-
-**🇹🇷 Based in Turkey** • **🌍 Open to Global Opportunities** • **💼 Available for Consulting**
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ErayYuksek&color=00d4ff&style=for-the-badge)
-
-**⭐ "Building the future, one commit at a time" ⭐**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eray-y-6a671a322/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ErayYuksek)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eray@example.com)
 
 </div>
 
