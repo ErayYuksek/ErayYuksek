@@ -40,14 +40,20 @@
 
 ---
 
-## 📊 Weekly Development Pulse
+## 📊 GitHub Stats
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85149&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErayYuksek&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85149&text_color=C9D1D9)
+
+### 📈 Weekly Activity & Commitment
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F85149&area=true&hide_border=true&custom_title=Code%20Contribution%20Timeline)
 
-![This Week](https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=This%20Week&color=58A6FF&labelColor=0D1117)
-![Total Commits](https://img.shields.io/badge/Total_Commits_2025-127-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=Weekly%20Commits&color=58A6FF&labelColor=0D1117)
+![Total Commits 2025](https://img.shields.io/badge/Total_Commits_2025-127-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErayYuksek&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85149&fire=F85149&currStreakLabel=58A6FF)
 
