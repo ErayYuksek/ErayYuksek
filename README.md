@@ -1,6 +1,6 @@
 # 👨‍💻 Eray Yüksek
 
-### Backend Developer | .NET 
+### Backend Developer | .NET
 
 Merhaba! Backend geliştirme ve yazılım mimarisi konularında uzmanlaşmış bir profesyonelim. Temiz kod ve ölçeklenebilir sistemler tasarlamaya odaklanıyorum.
 
@@ -16,6 +16,9 @@ Merhaba! Backend geliştirme ve yazılım mimarisi konularında uzmanlaşmış b
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-3277A8?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://docs.microsoft.com/en-us/aspnet/mvc/overview/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ---
 
@@ -26,6 +29,8 @@ Merhaba! Backend geliştirme ve yazılım mimarisi konularında uzmanlaşmış b
 <img src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85149&icon_color=58A6FF&text_color=C9D1D9" alt="Eray Yüksek GitHub Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F85149&area=true&hide_border=true" alt="Eray Yüksek GitHub Activity Graph" />
+
+![Weekly Commits](https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=Haftalik%20Commitler)
 
 </div>
 
