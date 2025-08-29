@@ -16,7 +16,6 @@ Merhaba! Backend geliştirme ve yazılım mimarisi konularında uzmanlaşmış b
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-3277A8?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
 [![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://docs.microsoft.com/en-us/aspnet/mvc/overview/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 ---
 
