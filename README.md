@@ -1,6 +1,6 @@
 # 👨‍💻 Eray Yüksek
 
-### Backend Developer | .NET & JavaScript
+### Backend Developer | .NET 
 
 Merhaba! Backend geliştirme ve yazılım mimarisi konularında uzmanlaşmış bir profesyonelim. Temiz kod ve ölçeklenebilir sistemler tasarlamaya odaklanıyorum.
 
