@@ -24,7 +24,7 @@ Hello! I am a professional focused on backend development and software architect
 
 ### 📊 GitHub İstatistikleri
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85149&icon_color=58A6FF&text_color=C9D1D9" alt="Eray Yüksek GitHub Stats" />
 
