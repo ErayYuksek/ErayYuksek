@@ -22,7 +22,7 @@ Hello! I am a professional focused on backend development and software architect
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri 
 
 <div align="center"> 
 
