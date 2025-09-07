@@ -2,7 +2,7 @@
 
 ### Backend Developer | .NET
 
-Hello! I am a professional focused on backend development and software architecture. I care about writing clean code and designing scalable systems, and I’m always eager to learn  and  improve .
+Hello! I am a professional focused on backend development and software architecture. I care about writing clean code and designing scalable systems, and I’m always eager to learn  and  improve . 
 
 ---
 
