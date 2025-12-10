@@ -32,15 +32,6 @@ Hello! I am a professional focused on backend development and software architect
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
----
-
-### 📊 GitHub İstatistikleri 
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ErayYuksek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85149&icon_color=58A6FF&text_color=C9D1D9" alt="Eray Yüksek GitHub Stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErayYuksek&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F85149&area=true&hide_border=true" alt="Eray Yüksek GitHub Activity Graph" />
-
-![Weekly Commits](https://img.shields.io/github/commit-activity/w/ErayYuksek/ErayYuksek?style=for-the-badge&logo=git&logoColor=white&label=Haftalik%20Commitler)
-</div>
 
 ---
 
