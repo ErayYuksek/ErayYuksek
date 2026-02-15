@@ -31,14 +31,13 @@ Hello! I am a professional focused on backend development and software architect
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 ---
 
 ### 🤝 Bağlantılar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eray-y-6a671a322/)
 [![GitHub](https://img.shields.io/badge/GitHub-@ErayYuksek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErayYuksek)
-
 
 ---
 
